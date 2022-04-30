@@ -3,6 +3,8 @@
 
 # IntelliJ project files
 .idea
+cmake-build-debug
+build
 *.iml
 out
 gen
